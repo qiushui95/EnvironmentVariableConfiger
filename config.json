@@ -1,0 +1,40 @@
+{
+  "androidHome": {
+    "enable": true,
+    "key": "ANDROID_HOME",
+    "value": "D:\\Sdk\\Android\\Sdk",
+    "pathValue": "%ANDROID_HOME%\\platform-tools"
+  },
+  "androidSdkHome": {
+    "enable": true,
+    "key": "ANDROID_SDK_HOME",
+    "value": "D:\\Sdk\\Android"
+  },
+  "flutterHome": {
+    "enable": true,
+    "key": "FLUTTER_HOME",
+    "value": "D:\\Sdk\\Flutter",
+    "pathValue": "%FLUTTER_HOME%\\bin"
+  },
+  "flutterPubUrl": {
+    "enable": true,
+    "key": "PUB_HOSTED_URL",
+    "value": "https://pub.flutter-io.cn"
+  },
+  "flutterBaseUrl": {
+    "enable": true,
+    "key": "FLUTTER_HOME",
+    "value": "https://storage.flutter-io.cn"
+  },
+  "gradleHome": {
+    "enable": true,
+    "key": "GRADLE_USER_HOME",
+    "value": "D:\\Sdk\\Gradle"
+  },
+  "javaHome": {
+    "enable": true,
+    "key": "JAVA_HOME",
+    "value": "C:\\Program Files\\Android\\Android Studio\\jre",
+    "pathValue": "%JAVA_HOME%\\bin"
+  }
+}
